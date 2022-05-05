@@ -178,7 +178,7 @@ switch (letterGrade) {
     console.log("The student is doing well.");
     break;
   case "C":
-    console.log("The student is doing a'ight.");
+    console.log("The student is doing alright.");
     break;
   case "D":
     console.log("The student is not doing very well.");
